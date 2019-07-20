@@ -1,0 +1,10 @@
+package com.multipleInheritence;
+
+public interface I2 {
+	abstract void m1();
+	void m2();
+	default void m4() {
+		System.out.println("m4");
+	}
+	
+}
