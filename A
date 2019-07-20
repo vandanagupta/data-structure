@@ -1,4 +1,4 @@
-package com.jpmorgan.ib.equities.bcr.common.admin.bulkupload.controller;
+package com.multipleInheritence;
 
 public class A implements I2, I1{
 	public void main(String[] args) {
